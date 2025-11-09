@@ -2,7 +2,7 @@
 
 This project was completed by Michael Fillinger for CSI 5810 at Oakland University.
 
-The goal of this project is to predict the type of forest cover in the Roosevelt National Forest (Colorado) using cartographic variables such as elevation, slope, aspect, and soil type.  
+The goal of this project is to predict the type of forest cover in the Roosevelt National Forest using cartographic variables such as elevation, slope, aspect, and soil type.  
 The dataset used comes from the *Kaggle Forest Cover Type Prediction* challenge.
 
 
