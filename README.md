@@ -14,6 +14,5 @@ The dataset used comes from the *Kaggle Forest Cover Type Prediction* challenge.
    `best_forest_model.pkl`
    `train.csv`
 
-2. Install dependencies:
-   ```bash
+3. Install dependencies:
    pip install -r requirements.txt
