@@ -9,10 +9,10 @@ The dataset used comes from the *Kaggle Forest Cover Type Prediction* challenge.
 ## How to Run
 
 1. Make sure the following files are in the same folder:
-   - `train_forest_cover.py`
-   - `app.py`
-   - `best_forest_model.pkl`
-   - `train.csv`
+   `train_forest_cover.py`
+   `app.py`
+   `best_forest_model.pkl`
+   `train.csv`
 
 2. Install dependencies:
    ```bash
