@@ -17,3 +17,12 @@ The dataset used comes from the *Kaggle Forest Cover Type Prediction* challenge.
 3. Install dependencies:
    ```bash
    pip install -r requirements.txt
+
+4. Train the models:
+   python train_forest_cover.py
+
+5. Run the Streamlit app:
+streamlit run app.py
+
+6. Open link shown in terminal
+ 
